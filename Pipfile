@@ -10,6 +10,12 @@ psycopg2 = "*"
 flask-sqlalchemy = "*"
 flask-restful = "*"
 sqlalchemy = "*"
+jupyter = "*"
+lab = "*"
+pandas = "*"
+np = "*"
+urlopen = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
