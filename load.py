@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres@localhost/dso_without_c13"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres@localhost/dso_without_errors"
 db = SQLAlchemy(app)
 
 
@@ -29,7 +29,7 @@ print("create model success")
 
 
 db_conn = psycopg2.connect(host="localhost", port="5432",
-                           dbname="dso_without_c13", user="postgres")
+                           dbname="dso_without_errors", user="postgres")
 db_cursor = db_conn.cursor()
 print("connection success")
 f_contents = open('dso_complete.csv', 'r')
