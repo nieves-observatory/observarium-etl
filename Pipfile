@@ -8,6 +8,8 @@ python-dotenv = "*"
 flask = "*"
 psycopg2 = "*"
 flask-sqlalchemy = "*"
+flask-restful = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
