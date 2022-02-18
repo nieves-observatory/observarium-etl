@@ -1,0 +1,110 @@
+m1,Messier 1,NGC 1952,Crab Nebula,supernova remnant,5h34m31.9s,+22d0m52s,8.4,6.5,Taurus,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/500px-Crab_Nebula.jpg
+m2,Messier 2,NGC 7089,–,globular cluster,21h33m27.2s,-0d49m22s,6.6,33.0,Aquarius,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Messier2_-_HST_-_Potw1913a.jpg/500px-Messier2_-_HST_-_Potw1913a.jpg
+m3,Messier 3,NGC 5272,–,globular cluster,13h42m11.2s,+28d22m34s,6.3,33.9,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Messier3_-_HST_-_Potw1914a.jpg/500px-Messier3_-_HST_-_Potw1914a.jpg
+m4,Messier 4,NGC 6121,–,globular cluster,16h23m35.5s,-26d31m29s,5.4,7.2,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Globular_star_cluster_Messier_4.jpg/500px-Globular_star_cluster_Messier_4.jpg
+m5,Messier 5,NGC 5904,–,globular cluster,15h18m33.8s,+2d5m0s,5.7,24.5,Serpens,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Messier_5_-_HST.jpg/500px-Messier_5_-_HST.jpg
+m6,Messier 6,NGC 6405,Butterfly Cluster,open cluster,17h40m20.0s,-32d15m30s,4.2,1.6,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/M6a.jpg/500px-M6a.jpg
+m7,Messier 7,NGC 6475,Ptolemy Cluster,open cluster,17h53m50.0s,-34d47m36s,3.3,0.98,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_star_cluster_Messier_7.jpg/500px-The_star_cluster_Messier_7.jpg
+m8,Messier 8,NGC 6523,Lagoon Nebula,emission nebula,18h3m42.0s,-24d22m48s,5.8,4.1,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LagoonHunterWilson.jpg/500px-LagoonHunterWilson.jpg
+m9,Messier 9,NGC 6333,–,globular cluster,17h19m11.8s,-18d30m57s,7.8,25.8,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Globular_cluster_Messier_9_%28captured_by_the_Hubble_Space_Telescope%29.tif/lossy-page1-500px-Globular_cluster_Messier_9_%28captured_by_the_Hubble_Space_Telescope%29.tif.jpg
+m10,Messier 10,NGC 6254,–,globular cluster,16h57m8.9s,-4d5m56s,6.6,14.3,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Messier_10_Hubble_WikiSky.jpg/500px-Messier_10_Hubble_WikiSky.jpg
+m11,Messier 11,NGC 6705,Wild Duck Cluster,open cluster,18h51m5.0s,-6d16m12s,5.8,6.2,Scutum,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eso1430a.jpg/500px-Eso1430a.jpg
+m12,Messier 12,NGC 6218,–,globular cluster,16h47m14.5s,-1d56m50s,6.1,15.7,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/M12_Hubble.jpg/500px-M12_Hubble.jpg
+m13,Messier 13,NGC 6205,Great Globular Cluster in Hercules,globular cluster,16h41m41.5s,+36d27m39s,5.8,22.2,Hercules,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Messier_13_Hubble_WikiSky.jpg/500px-Messier_13_Hubble_WikiSky.jpg
+m14,Messier 14,NGC 6402,–,globular cluster,17h37m36.1s,-3d14m43s,7.6,30.3,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Messier_object_014.jpg/500px-Messier_object_014.jpg
+m15,Messier 15,NGC 7078,–,globular cluster,21h29m58.3s,+12d10m3s,6.3,33.0,Pegasus,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Messier_15_Hubble_WikiSky.jpg/500px-Messier_15_Hubble_WikiSky.jpg
+m16,Messier 16,NGC 6611,Eagle Nebula,emission nebula,18h18m45.0s,-13d47m54s,6.0,7.0,Serpens,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eagle_Nebula_from_ESO.jpg/500px-Eagle_Nebula_from_ESO.jpg
+m17,Messier 17,NGC 6618,Omega Swan Horseshoe Lobster Nebula,emission nebula,18h20m47.0s,-16d10m18s,6.0,5.5,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_star_formation_region_Messier_17.jpg/500px-The_star_formation_region_Messier_17.jpg
+m18,Messier 18,NGC 6613,–,open cluster,18h19m58.0s,-17d6m6s,6.9,4.9,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Messier18.jpg/500px-Messier18.jpg
+m19,Messier 19,NGC 6273,–,globular cluster,17h2m37.7s,-26d16m3s,6.8,28.7,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Messier_19_Hubble_WikiSky.jpg/500px-Messier_19_Hubble_WikiSky.jpg
+m20,Messier 20,NGC 6514,Trifid Nebula,emission nebula,18h2m42.0s,-22d58m18s,8.5,5.2,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trifid.nebula.arp.750pix.jpg/500px-Trifid.nebula.arp.750pix.jpg
+m21,Messier 21,NGC 6531,–,open cluster,18h4m13.3s,-22d30m0s,5.9,4.25,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Messier_object_021.jpg/500px-Messier_object_021.jpg
+m22,Messier 22,NGC 6656,Sagittarius Cluster,globular cluster,18h36m24.2s,-23d54m10s,5.2,10.6,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Messier_22_Hubble_WikiSky.jpg/500px-Messier_22_Hubble_WikiSky.jpg
+m23,Messier 23,NGC 6494,–,open cluster,17h56m56.0s,-19d0m42s,5.5,2.15,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Messier_object_023.jpg/500px-Messier_object_023.jpg
+m24,Messier 24,IC 4715,Small Sagittarius Star Cloud,star cloud,18h18m48.0s,-18d33m0s,4.6,10.0,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Messier_24_Colombari_crop_invert.jpg/500px-Messier_24_Colombari_crop_invert.jpg
+m25,Messier 25,IC 4725,–,open cluster,18h31m45.0s,-19d7m12s,4.6,2.0,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Messier_object_025.jpg/500px-Messier_object_025.jpg
+m26,Messier 26,NGC 6694,–,open cluster,18h45m15.0s,-9d23m6s,8.0,5.0,Scutum,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Messier_26.jpg/500px-Messier_26.jpg
+m27,Messier 27,NGC 6853,Dumbbell Nebula,planetary nebula,19h59m36.3s,+22d43m18s,7.4,1.334,Vulpecula,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/M27_-_Dumbbell_Nebula.jpg/500px-M27_-_Dumbbell_Nebula.jpg
+m28,Messier 28,NGC 6626,–,globular cluster,18h24m32.9s,-24d52m10s,6.9,17.9,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nebulous%2C_but_no_nebula_Messier_28.jpg/500px-Nebulous%2C_but_no_nebula_Messier_28.jpg
+m29,Messier 29,NGC 6913,Cooling Tower,open cluster,20h24m6.0s,+38d29m36s,6.6,7.2,Cygnus,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Messier_29.jpg/500px-Messier_29.jpg
+m30,Messier 30,NGC 7099,–,globular cluster,21h40m22.0s,-23d10m43s,6.9,29.4,Capricornus,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messier_30_Hubble_WikiSky.jpg/500px-Messier_30_Hubble_WikiSky.jpg
+m31,Messier 31,NGC 224,Andromeda Galaxy,galaxy,0h42m44.3s,+41d16m8s,3.4,2540.0,Andromeda,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/500px-Andromeda_Galaxy_%28with_h-alpha%29.jpg
+m32,Messier 32,NGC 221,Small Andromeda Galaxy,galaxy,0h42m41.8s,+40d51m57s,8.1,2490.0,Andromeda,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M32_Francione_inverted.jpg/200px-M32_Francione_inverted.jpg
+m33,Messier 33,NGC 598,Triangulum Pinwheel Galaxy,galaxy,1h33m51.9s,+30d39m29s,5.7,2725.0,Triangulum,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/500px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg
+m34,Messier 34,NGC 1039,–,open cluster,2h42m5.0s,+42d45m42s,5.2,1.5,Perseus,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/M34_2mass_atlas.jpg/500px-M34_2mass_atlas.jpg
+m35,Messier 35,NGC 2168,–,open cluster,6h9m4.0s,+24d21m0s,5.1,2.8,Gemini,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/M35atlas.jpg/500px-M35atlas.jpg
+m36,Messier 36,NGC 1960,–,open cluster,5h36m17.7s,+34d8m27s,6.0,4.1,Auriga,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/M36a.jpg/500px-M36a.jpg
+m37,Messier 37,NGC 2099,–,open cluster,5h52m18.3s,+32d33m11s,5.6,4.511,Auriga,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M37a.jpg/500px-M37a.jpg
+m38,Messier 38,NGC 1912,Starfish Cluster,open cluster,5h28m43.0s,+35d51m18s,6.4,4.2,Auriga,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/M38_Open_Cluster.jpg/500px-M38_Open_Cluster.jpg
+m39,Messier 39,NGC 7092,–,open cluster,21h31m52.0s,+48d25m30s,4.6,0.8244,Cygnus,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/M39atlas.jpg/500px-M39atlas.jpg
+m40,Messier 40,–,Winnecke-4,asterism,12h22m16.2s,+58d5m8s,9.0,0.51,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Messier_object_40.jpg/500px-Messier_object_40.jpg
+m41,Messier 41,NGC 2287,–,open cluster,6h46m0.0s,-20d45m24s,4.5,2.3,Canis Major,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Messier_041_2MASS.jpg/500px-Messier_041_2MASS.jpg
+m42,Messier 42,NGC 1976,Orion Nebula,emission nebula,5h35m17.1s,-5d23m25s,4.0,1.344,Orion,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/500px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg
+m43,Messier 43,NGC 1982,De Mairan's Nebula,emission nebula,5h35m31.3s,-5d16m3s,6.8,1.6,Orion,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/M43_HST.jpg/500px-M43_HST.jpg
+m44,Messier 44,NGC 2632,Beehive Cluster Praesepe,open cluster,8h40m24.0s,+19d40m12s,3.1,0.577,Cancer,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Messier_44_2018.jpg/500px-Messier_44_2018.jpg
+m45,Messier 45,–,Pleiades,open cluster,3h47m0.0s,+24d7m0s,1.6,0.42500000000000004,Taurus,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bob_Star_-_M45_Carranza_Field_%28by%29.jpg/500px-Bob_Star_-_M45_Carranza_Field_%28by%29.jpg
+m46,Messier 46,NGC 2437,–,open cluster,7h41m46.8s,-14d48m36s,6.1,5.4,Puppis,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/M46a.jpg/500px-M46a.jpg
+m47,Messier 47,NGC 2422,–,open cluster,7h36m35.0s,-14d28m47s,4.4,1.6,Puppis,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/M47a.jpg/500px-M47a.jpg
+m48,Messier 48,NGC 2548,–,open cluster,8h13m43.1s,-5d45m2s,5.8,1.5,Hydra,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/M48a.jpg/500px-M48a.jpg
+m49,Messier 49,NGC 4472,–,galaxy,12h29m46.7s,+8d0m0s,8.4,55900.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Messier_49_Hubble_WikiSky.jpg/500px-Messier_49_Hubble_WikiSky.jpg
+m50,Messier 50,NGC 2323,–,open cluster,7h2m47.8s,-8d22m33s,5.9,3.2,Monoceros,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/M50a.jpg/500px-M50a.jpg
+m51,Messier 51,NGC 5194 NGC 5195,Whirlpool Galaxy,galaxy,13h29m52.6s,+47d11m44s,8.4,23000.0,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/500px-Messier51_sRGB.jpg
+m52,Messier 52,NGC 7654,–,open cluster,23h24m48.0s,+61d36m0s,6.9,5.0,Cassiopeia,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/M52atlas.jpg/500px-M52atlas.jpg
+m53,Messier 53,NGC 5024,–,globular cluster,13h12m55.3s,+18d10m11s,7.7,58.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Globular_Cluster_M53.jpg/500px-Globular_Cluster_M53.jpg
+m54,Messier 54,NGC 6715,–,globular cluster,18h55m3.3s,-30d28m40s,7.7,87.4,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Messier54.jpg/500px-Messier54.jpg
+m55,Messier 55,NGC 6809,–,globular cluster,19h39m59.4s,-30d57m42s,6.3,17.6,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Messier55.jpg/500px-Messier55.jpg
+m56,Messier 56,NGC 6779,–,globular cluster,19h16m35.5s,+30d11m7s,8.4,32.9,Lyra,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/M56-LRGB.jpg/500px-M56-LRGB.jpg
+m57,Messier 57,NGC 6720,Ring Nebula,planetary nebula,18h53m35.1s,+33d1m47s,8.8,2.7,Lyra,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/M57_The_Ring_Nebula.JPG/200px-M57_The_Ring_Nebula.JPG
+m58,Messier 58,NGC 4579,–,galaxy,12h37m43.7s,+11d49m6s,9.7,63000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M58s_%28visible%29.jpg/500px-M58s_%28visible%29.jpg
+m59,Messier 59,NGC 4621,–,galaxy,12h42m2.2s,+11d38m50s,9.6,60000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Messier59_-_HST_-_Potw1921a.jpg/500px-Messier59_-_HST_-_Potw1921a.jpg
+m60,Messier 60,NGC 4649,–,galaxy,12h43m39.8s,+11d33m11s,8.8,55000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Messier_60_Hubble_WikiSky.jpg/500px-Messier_60_Hubble_WikiSky.jpg
+m61,Messier 61,NGC 4303,–,galaxy,12h21m54.9s,+4d28m22s,9.7,52500.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Messier61_-_ESO_-_Potw1901a.tif/lossy-page1-500px-Messier61_-_ESO_-_Potw1901a.tif.jpg
+m62,Messier 62,NGC 6266,–,globular cluster,17h1m12.6s,-30d6m42s,6.4,22.2,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Messier_object_062.jpg/500px-Messier_object_062.jpg
+m63,Messier 63,NGC 5055,Sunflower Galaxy,galaxy,13h15m49.0s,+42d1m59s,8.6,37000.0,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/M63s.jpg/500px-M63s.jpg
+m64,Messier 64,NGC 4826,Black Eye Galaxy,galaxy,12h56m43.8s,+21d40m59s,8.5,24000.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blackeyegalaxy.jpg/500px-Blackeyegalaxy.jpg
+m65,Messier 65,NGC 3623,Leo Triplet,galaxy,11h18m55.6s,+13d5m27s,9.3,41500.0,Leo,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/M65.jpg/500px-M65.jpg
+m66,Messier 66,NGC 3627,Leo Triplet,galaxy,11h20m15.1s,+12d59m24s,8.9,36000.0,Leo,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Phot-33c-03-fullres.jpg/500px-Phot-33c-03-fullres.jpg
+m67,Messier 67,NGC 2682,–,open cluster,8h51m18.0s,+11d49m0s,6.9,2.77,Cancer,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Messier_object_067.jpg/500px-Messier_object_067.jpg
+m68,Messier 68,NGC 4590,–,globular cluster,12h39m28.0s,-26d44m32s,7.3,33.6,Hydra,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Messier_object_068.jpg/500px-Messier_object_068.jpg
+m69,Messier 69,NGC 6637,–,globular cluster,18h31m23.2s,-32d20m51s,8.3,29.7,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Messier_object_069.jpg/500px-Messier_object_069.jpg
+m70,Messier 70,NGC 6681,–,globular cluster,18h43m12.7s,-32d17m29s,7.8,29.4,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Messier70.jpg/500px-Messier70.jpg
+m71,Messier 71,NGC 6838,–,globular cluster,19h53m46.1s,+18d46m44s,8.4,13.0,Sagitta,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Messier71.jpg/500px-Messier71.jpg
+m72,Messier 72,NGC 6981,–,globular cluster,20h53m27.9s,-12d32m11s,9.2,54.57,Aquarius,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Messier72.jpg/500px-Messier72.jpg
+m73,Messier 73,NGC 6994,–,asterism,20h58m56.0s,-12d38m0s,8.9,2.5,Aquarius,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messier_073_2MASS.jpg/500px-Messier_073_2MASS.jpg
+m74,Messier 74,NGC 628,Phantom Galaxy,galaxy,1h36m41.7s,+15d47m0s,9.4,30000.0,Pisces,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Messier_74_by_HST.jpg/500px-Messier_74_by_HST.jpg
+m75,Messier 75,NGC 6864,–,globular cluster,20h6m4.8s,-21d55m15s,8.6,67.5,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Messier75.jpg/500px-Messier75.jpg
+m76,Messier 76,NGC 650 NGC 651,Little Dumbbell Nebula,planetary nebula,1h42m18.1s,+51d34m17s,10.1,2.5,Perseus,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/M76-RL5-DDmin-Gamma-LRGB_883x628.jpg/500px-M76-RL5-DDmin-Gamma-LRGB_883x628.jpg
+m77,Messier 77,NGC 1068,Cetus A,galaxy,2h42m40.8s,-0d0m46s,8.9,47000.0,Cetus,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/M77_Galaxy_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg/500px-M77_Galaxy_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg
+m78,Messier 78,NGC 2068,–,diffuse nebula,5h46m45.0s,+0d4m48s,8.0,1.6,Orion,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Messier_78.jpg/500px-Messier_78.jpg
+m79,Messier 79,NGC 1904,–,globular cluster,5h24m10.6s,-24d31m25s,7.7,41.0,Lepus,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/M79a.jpg/500px-M79a.jpg
+m80,Messier 80,NGC 6093,–,globular cluster,16h17m2.5s,-22d58m28s,7.3,32.6,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg/500px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg
+m81,Messier 81,NGC 3031,Bode's Galaxy,galaxy,9h55m33.5s,+69d4m2s,6.9,11800.0,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Messier_81_HST.jpg/500px-Messier_81_HST.jpg
+m82,Messier 82,NGC 3034,Cigar Galaxy,galaxy,9h55m54.0s,+69d40m59s,8.4,11500.0,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/JPEG_M82_Cigar_Galaxyjn.jpg/500px-JPEG_M82_Cigar_Galaxyjn.jpg
+m83,Messier 83,NGC 5236,Southern Pinwheel Galaxy,galaxy,13h37m0.2s,-29d52m2s,7.5,14700.0,Hydra,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M83_-_Southern_Pinwheel.jpg/500px-M83_-_Southern_Pinwheel.jpg
+m84,Messier 84,NGC 4374,–,galaxy,12h25m3.6s,+12d53m13s,9.1,60000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Messier_84_nucleus_Hubble.jpg/500px-Messier_84_nucleus_Hubble.jpg
+m85,Messier 85,NGC 4382,–,galaxy,12h25m23.9s,+18d11m27s,9.1,60000.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Messier_85_Hubble_WikiSky.jpg/500px-Messier_85_Hubble_WikiSky.jpg
+m86,Messier 86,NGC 4406,–,galaxy,12h26m11.5s,+12d56m47s,8.9,52000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Messier_86_Hubble_WikiSky.jpg/500px-Messier_86_Hubble_WikiSky.jpg
+m87,Messier 87,NGC 4486,Virgo A,galaxy,12h30m49.4s,+12d23m26s,8.6,53500.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/500px-Messier_87_Hubble_WikiSky.jpg
+m88,Messier 88,NGC 4501,–,galaxy,12h31m59.0s,+14d25m11s,9.6,47500.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/M88s.jpg/500px-M88s.jpg
+m89,Messier 89,NGC 4552,–,galaxy,12h35m39.9s,+12d33m22s,9.8,50000.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Messier89_-_HST_-_Potw1902a.tif/lossy-page1-500px-Messier89_-_HST_-_Potw1902a.tif.jpg
+m90,Messier 90,NGC 4569,–,galaxy,12h36m50.0s,+13d9m50s,9.5,58700.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Messier90_-_SDSS_DR14_%28panorama%29.jpg/500px-Messier90_-_SDSS_DR14_%28panorama%29.jpg
+m91,Messier 91,NGC 4548,–,galaxy,12h35m26.4s,+14d29m47s,10.2,63000.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/M91s.jpg/500px-M91s.jpg
+m92,Messier 92,NGC 6341,–,globular cluster,17h17m7.3s,+43d8m13s,6.5,26.7,Hercules,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/M92_Hubble_WikiSky.jpg/200px-M92_Hubble_WikiSky.jpg
+m93,Messier 93,NGC 2447,–,open cluster,7h44m30.0s,-23d51m24s,6.2,3.6,Puppis,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Messier_object_093.jpg/500px-Messier_object_093.jpg
+m94,Messier 94,NGC 4736,Croc's Eye or Cat's Eye,galaxy,12h50m53.1s,+41d7m17s,8.2,16000.0,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Messier_94.jpg/500px-Messier_94.jpg
+m95,Messier 95,NGC 3351,–,galaxy,10h43m57.8s,+11d42m12s,9.7,32600.0,Leo,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_VLT_goes_lion_hunting.jpg/500px-The_VLT_goes_lion_hunting.jpg
+m96,Messier 96,NGC 3368,–,galaxy,10h46m45.8s,+11d49m12s,9.3,31000.0,Leo,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NGC_3368_ESO.jpg/500px-NGC_3368_ESO.jpg
+m97,Messier 97,NGC 3587,Owl Nebula,planetary nebula,11h14m47.7s,+55d1m10s,9.9,2.03,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/M97-stargazer-obs.jpg/500px-M97-stargazer-obs.jpg
+m98,Messier 98,NGC 4192,–,galaxy,12h13m47.8s,+14d53m58s,10.1,44400.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/M-98.jpg/500px-M-98.jpg
+m99,Messier 99,NGC 4254,–,galaxy,12h18m49.3s,+14d25m3s,9.9,50200.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/M99.jpg/500px-M99.jpg
+m100,Messier 100,NGC 4321,–,galaxy,12h22m54.9s,+15d49m22s,9.4,55000.0,Coma Berenices,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Messier_100_and_Supernova_SN_2006X.jpg/500px-Messier_100_and_Supernova_SN_2006X.jpg
+m101,Messier 101,NGC 5457,Pinwheel Galaxy,galaxy,14h3m12.4s,+54d20m58s,7.9,20750.0,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/500px-M101_hires_STScI-PRC2006-10a.jpg
+m102,Messier 102,NGC 5866,Spindle Galaxy,galaxy,15h6m29.4s,+55d45m49s,9.9,50000.0,Draco,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ngc5866_hst_big.png/200px-Ngc5866_hst_big.png
+m103,Messier 103,NGC 581,–,open cluster,1h33m23.0s,+60d39m30s,7.4,10.0,Cassiopeia,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Messier_object_103.jpg/500px-Messier_object_103.jpg
+m104,Messier 104,NGC 4594,Sombrero Galaxy,galaxy,12h39m59.3s,-11d37m21s,8.0,29800.0,Virgo,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg/500px-M104_ngc4594_sombrero_galaxy_hi-res.jpg
+m105,Messier 105,NGC 3379,–,galaxy,10h47m49.5s,+12d34m52s,9.3,32000.0,Leo,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Messier105_-_HST_-_Potw1901a.jpg/500px-Messier105_-_HST_-_Potw1901a.jpg
+m106,Messier 106,NGC 4258,–,galaxy,12h18m57.8s,+47d18m25s,8.4,23700.0,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/M106_-_Messier_106_Galaxy.jpg/500px-M106_-_Messier_106_Galaxy.jpg
+m107,Messier 107,NGC 6171,–,globular cluster,16h32m31.9s,-13d3m11s,7.8,20.9,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Messier_object_107.jpg/500px-Messier_object_107.jpg
+m108,Messier 108,NGC 3556,–,galaxy,11h11m29.4s,+55d40m22s,10.0,46000.0,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Messier108_-_SDSS_DR_14_%28panorama%29.jpg/500px-Messier108_-_SDSS_DR_14_%28panorama%29.jpg
+m109,Messier 109,NGC 3992,–,galaxy,11h57m35.4s,+53d22m25s,9.8,83500.0,Ursa Major,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Messier109_-_SDSS_DR14_%28panorama%29.jpg/500px-Messier109_-_SDSS_DR14_%28panorama%29.jpg
+m110,Messier 110,NGC 205,–,galaxy,0h40m22.1s,+41d41m7s,8.1,2690.0,Andromeda,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Messier_object_110.jpg/500px-Messier_object_110.jpg
