@@ -1,3 +1,4 @@
+params,name,ngcic,common,type,ra,dec,mag,dist,con,image
 m1,Messier 1,NGC 1952,Crab Nebula,supernova remnant,5h34m31.9s,+22d0m52s,8.4,6.5,Taurus,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/500px-Crab_Nebula.jpg
 m2,Messier 2,NGC 7089,–,globular cluster,21h33m27.2s,-0d49m22s,6.6,33.0,Aquarius,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Messier2_-_HST_-_Potw1913a.jpg/500px-Messier2_-_HST_-_Potw1913a.jpg
 m3,Messier 3,NGC 5272,–,globular cluster,13h42m11.2s,+28d22m34s,6.3,33.9,Canes Venatici,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Messier3_-_HST_-_Potw1914a.jpg/500px-Messier3_-_HST_-_Potw1914a.jpg

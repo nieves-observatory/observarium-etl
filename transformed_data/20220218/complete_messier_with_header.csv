@@ -6,7 +6,7 @@ m4,Messier 4,NGC 6121,–,globular cluster,16h23m35.5s,-26d31m29s,5.4,7.2,Scorpi
 m5,Messier 5,NGC 5904,–,globular cluster,15h18m33.8s,+2d5m0s,5.7,24.5,Serpens,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Messier_5_-_HST.jpg/500px-Messier_5_-_HST.jpg
 m6,Messier 6,NGC 6405,Butterfly Cluster,open cluster,17h40m20.0s,-32d15m30s,4.2,1.6,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/M6a.jpg/500px-M6a.jpg
 m7,Messier 7,NGC 6475,Ptolemy Cluster,open cluster,17h53m50.0s,-34d47m36s,3.3,0.98,Scorpius,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_star_cluster_Messier_7.jpg/500px-The_star_cluster_Messier_7.jpg
-m8,Messier 8,NGC 6523,Lagoon Nebula,emission nebula,18h3m42.0s,-24d22m48s,5.8,4.1,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LagoonHunterWilson.jpg/500px-LagoonHunterWilson.jpg
+m8,Messier 8,NGC 6523,Lagoon Nebula,nebula with cluster,18h3m42.0s,-24d22m48s,5.8,4.1,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LagoonHunterWilson.jpg/500px-LagoonHunterWilson.jpg
 m9,Messier 9,NGC 6333,–,globular cluster,17h19m11.8s,-18d30m57s,7.8,25.8,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Globular_cluster_Messier_9_%28captured_by_the_Hubble_Space_Telescope%29.tif/lossy-page1-500px-Globular_cluster_Messier_9_%28captured_by_the_Hubble_Space_Telescope%29.tif.jpg
 m10,Messier 10,NGC 6254,–,globular cluster,16h57m8.9s,-4d5m56s,6.6,14.3,Ophiuchus,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Messier_10_Hubble_WikiSky.jpg/500px-Messier_10_Hubble_WikiSky.jpg
 m11,Messier 11,NGC 6705,Wild Duck Cluster,open cluster,18h51m5.0s,-6d16m12s,5.8,6.2,Scutum,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eso1430a.jpg/500px-Eso1430a.jpg
@@ -22,7 +22,7 @@ m20,Messier 20,NGC 6514,Trifid Nebula,emission nebula,18h2m42.0s,-22d58m18s,8.5,
 m21,Messier 21,NGC 6531,–,open cluster,18h4m13.3s,-22d30m0s,5.9,4.25,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Messier_object_021.jpg/500px-Messier_object_021.jpg
 m22,Messier 22,NGC 6656,Sagittarius Cluster,globular cluster,18h36m24.2s,-23d54m10s,5.2,10.6,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Messier_22_Hubble_WikiSky.jpg/500px-Messier_22_Hubble_WikiSky.jpg
 m23,Messier 23,NGC 6494,–,open cluster,17h56m56.0s,-19d0m42s,5.5,2.15,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Messier_object_023.jpg/500px-Messier_object_023.jpg
-m24,Messier 24,IC 4715,Small Sagittarius Star Cloud,star cloud,18h18m48.0s,-18d33m0s,4.6,10.0,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Messier_24_Colombari_crop_invert.jpg/500px-Messier_24_Colombari_crop_invert.jpg
+m24,Messier 24,IC 4715,Small Sagittarius Star Cloud,milky way star cloud,18h18m48.0s,-18d33m0s,4.6,10.0,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Messier_24_Colombari_crop_invert.jpg/500px-Messier_24_Colombari_crop_invert.jpg
 m25,Messier 25,IC 4725,–,open cluster,18h31m45.0s,-19d7m12s,4.6,2.0,Sagittarius,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Messier_object_025.jpg/500px-Messier_object_025.jpg
 m26,Messier 26,NGC 6694,–,open cluster,18h45m15.0s,-9d23m6s,8.0,5.0,Scutum,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Messier_26.jpg/500px-Messier_26.jpg
 m27,Messier 27,NGC 6853,Dumbbell Nebula,planetary nebula,19h59m36.3s,+22d43m18s,7.4,1.334,Vulpecula,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/M27_-_Dumbbell_Nebula.jpg/500px-M27_-_Dumbbell_Nebula.jpg
