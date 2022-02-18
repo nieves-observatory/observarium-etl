@@ -49,9 +49,17 @@ jupyter lab
 
 ## Load
 
-The `load` python files can actually be run inside a Jupyter Notebook. This will be updated in future improvements to the process.
+This ETL process is database agnostic--you can upload the data to any database of choice.
 
-For now, to load, first create a Postgres database (e.g., we give the database a name of nieves_observer)
+### MongoDB
+
+Observarium will be using MongoDB, which we can easily seed csv data with the Mongo Compass GUI.
+
+### PostgreSQL
+
+The earlier version of Observarium uses a Postgres database, and you can follow the documentation here.
+
+To load to Postgres, first create a Postgres database (e.g., we give the database a name of nieves_observer)
 
 ```
 createdb -U postgres nieves_observer
