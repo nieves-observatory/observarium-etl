@@ -30,8 +30,8 @@ Work on the files in a Python shell such as `pipenv`.
 Clone the project
 
 ```
-git clone git@github.com:weejerrick/nieves-observer-etl.git
-cd nieves-observer-etl
+git clone git@github.com:nieves-observatory/observarium-etl.git
+cd observarium-etl
 ```
 
 Install all requisite libraries.
@@ -41,7 +41,7 @@ pipenv shell
 pipenv install -r requirements.txt
 ```
 
-Work on the ETL process with Jupyter Lab
+The ETL process is developed using Jupyter Lab, and thus has Jupyter Lab already installed as a dependency in this repository.
 
 ```
 jupyter lab
